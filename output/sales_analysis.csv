@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Price,Total
+1001,Laptop,Electronics,2,65000,130000
+1002,Mouse,Accessories,5,700,3500
+1003,Keyboard,Accessories,3,1500,4500
+1004,Monitor,Electronics,2,12000,24000
+1005,Headphones,Accessories,4,2500,10000
+1006,Laptop,Electronics,1,65000,65000
+1007,Mouse,Accessories,8,700,5600
+1008,Tablet,Electronics,3,30000,90000
+1009,Printer,Electronics,2,18000,36000
+1010,Keyboard,Accessories,5,1500,7500
