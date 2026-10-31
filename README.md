@@ -38,6 +38,9 @@ This project analyzes sales data using Python to identify sales trends, calculat
    `python main.py`
 
 ## Project Output
+## Project Screenshot
+
+![Sales Analysis Chart](output/product_sales_chart.png)
 
 The project generates sales analysis results and a product-wise sales visualization.
 
